@@ -1,0 +1,42 @@
+libmacaroons (0.2.0-7) utopic; urgency=medium
+
+  * build for utopic
+
+ -- Jay Wren <jay.wren@canonical.com>  Wed, 21 Jan 2015 10:45:55 -0500
+
+libmacaroons (0.2.0-6) trusty; urgency=medium
+
+  * serialize vid and cl in json serialization
+    https://github.com/rogpeppe/libmacaroons/pull/1
+
+ -- Jay Wren <jay.wren@canonical.com>  Wed, 21 Jan 2015 10:44:29 -0500
+
+libmacaroons (0.2.0-5) utopic; urgency=medium
+
+  * Build-Depend on dh-autoreconf - utopic too
+
+ -- Jay Wren <jay.wren@canonical.com>  Wed, 21 Jan 2015 07:18:36 -0500
+
+libmacaroons (0.2.0-4) trusty; urgency=medium
+
+  * Build-Depend on dh-autoreconf
+
+ -- Jay Wren <jay.wren@canonical.com>  Wed, 21 Jan 2015 07:17:39 -0500
+
+libmacaroons (0.2.0-3) trusty; urgency=medium
+
+  * backport to trusty
+
+ -- Jay Wren <jay.wren@canonical.com>  Wed, 21 Jan 2015 07:11:53 -0500
+
+libmacaroons (0.2.0-2) utopic; urgency=medium
+
+  * pull pr29 and pr30
+
+ -- Jay Wren <jay.wren@canonical.com>  Wed, 21 Jan 2015 06:52:28 -0500
+
+libmacaroons (0.2.0-1+trusty1) unstable; urgency=low
+
+  * Automatically generated using upack
+
+ -- Robert Escriva <robert@hyperdex.org>  Thu, 13 Nov 2014 18:20:20 -0500
